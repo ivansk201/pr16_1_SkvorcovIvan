@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pkract16console", "pkract16console.csproj", "{3923599E-0880-417E-92D2-7002929E87AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3923599E-0880-417E-92D2-7002929E87AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3923599E-0880-417E-92D2-7002929E87AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3923599E-0880-417E-92D2-7002929E87AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3923599E-0880-417E-92D2-7002929E87AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7919D2C-1E65-4D71-B348-11700A5805DD}
+	EndGlobalSection
+EndGlobal

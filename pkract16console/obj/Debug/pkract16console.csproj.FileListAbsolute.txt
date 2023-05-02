@@ -1,0 +1,7 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\bin\Debug\pkract16console.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\bin\Debug\pkract16console.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\bin\Debug\pkract16console.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\obj\Debug\pkract16console.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\obj\Debug\pkract16console.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\obj\Debug\pkract16console.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack1602052023\pkract16console\obj\Debug\pkract16console.pdb
